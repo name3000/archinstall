@@ -897,186 +897,186 @@ msgstr "Dies ist eine Liste von bereits programmierten Profilen, diese ermöglic
 
 #, fuzzy
 msgid "Current profile selection"
-msgstr "Momentanes Partitionslayout"
+msgstr "Momentane Profilauswahl"
 
 #, fuzzy
 msgid "Remove all newly added partitions"
-msgstr "Neue Partition erstellen"
+msgstr "Alle neu hinzugefügte Partitionen entfernen"
 
 #, fuzzy
 msgid "Assign mountpoint"
-msgstr "Mountort für Partition angeben"
+msgstr "Mountpunkt für Partition angeben"
 
 #, fuzzy
 msgid "Mark/Unmark to be formatted (wipes data)"
 msgstr "Markieren welche Partition formattiert werden soll (alle Daten werden gelöscht)"
 
 msgid "Mark/Unmark as bootable"
-msgstr ""
+msgstr "Markieren/Markierung aufheben als bootfähig"
 
 msgid "Change filesystem"
-msgstr ""
+msgstr "Dateisystem ändern"
 
 #, fuzzy
 msgid "Mark/Unmark as compressed"
-msgstr "Markieren/Unmarkieren Kompression von einer Partition (nur Btrfs) "
+msgstr "Markieren/Markierung aufheben von Kompression einer Partition "
 
 #, fuzzy
 msgid "Set subvolumes"
-msgstr "Benutzerkonto löschen"
+msgstr "Teil-/Untervolumen festlegen"
 
 #, fuzzy
 msgid "Delete partition"
 msgstr "Partition löschen"
 
 msgid "Partition"
-msgstr ""
+msgstr "Partition"
 
 msgid "This partition is currently encrypted, to format it a filesystem has to be specified"
-msgstr ""
+msgstr "Diese Partition ist momentan verschlüsselt. Um sie zu formatieren muss ein Dateisystem angegeben sein."
 
 #, fuzzy
 msgid "Partition mount-points are relative to inside the installation, the boot would be /boot as an example."
-msgstr " * Die Mountorte sind relativ zur Installation, zum Beispiel boot würde gemountet auf /boot"
+msgstr " Partitionsmountpunkte sind relativ zu innerhalb der Installation, zum Beispiel boot würde gemountet auf /boot"
 
 msgid "If mountpoint /boot is set, then the partition will also be marked as bootable."
-msgstr ""
+msgstr "Wenn der Einhängepunkt /boot gesetzt ist, dann wird die Partition auch als Bootfähig markiert."
 
 msgid "Mountpoint: "
-msgstr ""
+msgstr "Einhängepunkt:"
 
 msgid "Current free sectors on device {}:"
-msgstr ""
+msgstr "Momentane freie Sektoren auf dem Gerät {}:"
 
 #, fuzzy
 msgid "Total sectors: {}"
-msgstr "Ordner existiert nicht: {}"
+msgstr "Alle Sektoren: {}"
 
 #, fuzzy
 msgid "Enter the start sector (default: {}): "
-msgstr "Bitte geben Sie den start Sektor ein (in Prozent oder Blocknummer, default: {}): "
+msgstr "Bitte geben Sie den start Sektor ein (default: {}): "
 
 #, fuzzy
 msgid "Enter the end sector of the partition (percentage or block number, default: {}): "
-msgstr "Bitte geben Sie den end Sektor ein (in Prozent oder Blocknummer, default: {}): "
+msgstr "Bitte geben Sie den end Sektor der Partition ein (in Prozent oder Blocknummer, Standard: {}): "
 
 msgid "This will remove all newly added partitions, continue?"
-msgstr ""
+msgstr "Dies wird alle neu hinzugefügten Pratitionen entfernen. Fortfahren?"
 
 msgid "Partition management: {}"
-msgstr ""
+msgstr "Partitionsverwaltung: {}"
 
 msgid "Total length: {}"
-msgstr ""
+msgstr "Gesamtlänge: {}"
 
 #, fuzzy
 msgid "Encryption type"
-msgstr "Verschlüsselungspasswort angeben"
+msgstr "Verschlüsselungsart"
 
 msgid "Partitions"
-msgstr ""
+msgstr "Partitionen"
 
 msgid "No HSM devices available"
-msgstr ""
+msgstr "Keine HSM Geräte verfügbar"
 
 #, fuzzy
 msgid "Partitions to be encrypted"
-msgstr "Bitte wählen sie welche Partition verschlüsselt werden soll"
+msgstr "Partitionen die verschlüsselt werden"
 
 #, fuzzy
 msgid "Select disk encryption option"
-msgstr "Laufwerke-layout auswählen"
+msgstr "Laufwerkverschlüsselungsoption auswählen"
 
 msgid "Select a FIDO2 device to use for HSM"
-msgstr ""
+msgstr "Ein FIDO2 Gerät auswählen zur Verwendung von HSM"
 
 #, fuzzy
 msgid "Use a best-effort default partition layout"
-msgstr "Alle Laufwerke löschen und ein vorgegebenes Partitionenlayout verwenden"
+msgstr "Ein vorgegebenes Partitionenlayout verwenden"
 
 #, fuzzy
 msgid "Manual Partitioning"
-msgstr "Manuelle konfiguration"
+msgstr "Manuelle Partitionierung"
 
 #, fuzzy
 msgid "Pre-mounted configuration"
-msgstr "Keine Konfiguration"
+msgstr "Voreingehängte Konfiguration"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Unbekannt"
 
 msgid "Partition encryption"
-msgstr ""
+msgstr "Partitionsverschlüsselung"
 
 msgid " ! Formatting {} in "
-msgstr ""
+msgstr " ! Formatiere {} in "
 
 msgid "← Back"
-msgstr ""
+msgstr "← Zurück"
 
 msgid "Disk encryption"
-msgstr ""
+msgstr "Laufwerkverschlüsselung"
 
 #, fuzzy
 msgid "Configuration"
-msgstr "Keine Konfiguration"
+msgstr "Konfiguration"
 
 #, fuzzy
 msgid "Password"
-msgstr "Root Passwort"
+msgstr "Passwort"
 
 #, fuzzy
 msgid "All settings will be reset, are you sure?"
-msgstr "{} enthält Partitionen in der Warteschlange, dies werden damit entfernt, sind sie sicher?"
+msgstr "Alle Einstellungen werden zurückgesetzt sein, sind Sie sicher?"
 
 msgid "Back"
-msgstr ""
+msgstr "Zurück"
 
-msgid "Please chose which greeter to install for the chosen profiles: {}"
-msgstr ""
+msgid "Please choose which greeter to install for the chosen profiles: {}"
+msgstr "Bitte wählen Sie welcher Greeter instaliert werden soll für dieses Profil: {}"
 
 msgid "Environment type: {}"
-msgstr ""
+msgstr "Umgebungstyp: {}"
 
 msgid "The proprietary Nvidia driver is not supported by Sway. It is likely that you will run into issues, are you okay with that?"
-msgstr ""
+msgstr "Der proprietäre Nvidia Treiber ist nicht unterstützt von Sway. Es ist wahrscheinlich dass Sie Probleme haben werden, ist das okay für Sie?"
 
 #, fuzzy
 msgid "Installed packages"
-msgstr "Zus. Packete"
+msgstr "Installierte Packete"
 
 #, fuzzy
 msgid "Add profile"
-msgstr "Profile"
+msgstr "Profil hinzufügen"
 
 #, fuzzy
 msgid "Edit profile"
-msgstr "Profile"
+msgstr "Profil bearbeiten"
 
 #, fuzzy
 msgid "Delete profile"
-msgstr "Verbindung löschen"
+msgstr "Profil löschen"
 
 #, fuzzy
 msgid "Profile name: "
-msgstr "Profile"
+msgstr "Profilname: "
 
 msgid "The profile name you entered is already in use. Try again"
-msgstr ""
+msgstr "Der Profilname den Sie eingegeben haben ist bereits in Verwendung. Versuchen Sie es erneut."
 
 #, fuzzy
-msgid "Packages to be install with this profile (space separated, leave blank to skip): "
-msgstr "Schreiben Sie zusätzliche Packete die installiert werden sollen mit einem Leerzeichen getrennt (zum Überspringen leer lassen): "
+msgid "Packages to be installed with this profile (space separated, leave blank to skip): "
+msgstr "Pakete die mit diesem Profil instaliert werden sollen (Leerzeichen getrennt, leer lassen zum Überspringen): "
 
 #, fuzzy
 msgid "Services to be enabled with this profile (space separated, leave blank to skip): "
-msgstr "Schreiben Sie zusätzliche Packete die installiert werden sollen mit einem Leerzeichen getrennt (zum Überspringen leer lassen): "
+msgstr "Dienste die aktiviert sein sollten mit diesem Profil (Leerzeichen getrennt, leer lassen zum Überspringen): "
 
 msgid "Should this profile be enabled for installation?"
-msgstr ""
+msgstr "Sollte dieses Programm für die Installation aktiviert sein?"
 
 msgid "Create your own"
-msgstr ""
+msgstr "Eigenen erstellen."
 
 #, fuzzy
 msgid ""
@@ -1084,44 +1084,46 @@ msgid ""
 "Select a graphics driver or leave blank to install all open-source drivers"
 msgstr ""
 "\n"
-"\n"
-"Bitte wählen sie einen Grafiktreiber aus oder leer lassen um alle open-source Treiber zu installieren"
+"Bitte wählen Sie einen Grafiktreiber aus oder leer lassen um alle open-source Treiber zu installieren"
 
 msgid "Sway needs access to your seat (collection of hardware devices i.e. keyboard, mouse, etc)"
-msgstr ""
+msgstr "Sway braucht Zugriff auf Ihren seat (Ansammlung von Hardwaregeräten, d.h. Tastatur, Maus, etc.)"
 
 msgid ""
 "\n"
 "\n"
 "Choose an option to give Sway access to your hardware"
 msgstr ""
+"\n"
+"\n"
+"Wählen Sie eine Option um Sway Zugriff auf Ihre Hardware zu geben."
 
 msgid "Graphics driver"
-msgstr ""
+msgstr "Grafiktreiber"
 
 msgid "Greeter"
-msgstr ""
+msgstr "Greeter"
 
-msgid "Please chose which greeter to install"
-msgstr ""
+msgid "Please choose which greeter to install"
+msgstr "Bitte wählen Sie welcher Greeter installiert werden soll."
 
 msgid "This is a list of pre-programmed default_profiles"
-msgstr ""
+msgstr "Dies ist eine Liste von vorprogrammierten default_profiles."
 
 #, fuzzy
 msgid "Disk configuration"
-msgstr "Keine Konfiguration"
+msgstr "Laufwerkkonfiguration"
 
 #, fuzzy
 msgid "Profiles"
 msgstr "Profile"
 
 msgid "Finding possible directories to save configuration files ..."
-msgstr ""
+msgstr "Suche mögliche Verzeicnisse um Konfigurationsdateien zu speichern ..."
 
 #, fuzzy
 msgid "Select directory (or directories) for saving configuration files"
-msgstr "Bitte wählen sie eine oder mehrere Laufwerke aus die konfiguriert werden sollen"
+msgstr "Bitte wählen Sie ein Verzeichnis, oder mehrere Verzeichnisse aus, die konfiguriert werden sollen."
 
 #~ msgid "Add :"
 #~ msgstr "Hinzufügen :"
